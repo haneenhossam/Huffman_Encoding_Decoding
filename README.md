@@ -7,8 +7,8 @@ There are mainly three major parts in Huffman encoding/decoding:
 3. Decode the data using the encoded data and tree as an input.
 
 # More explanation
-<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/b281aac1-3585-4579-af69-d3640f433b36)" width="500" height="300">
-<img src="[[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/b281aac1-3585-4579-af69-d3640f433b36](https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/5e069d3b-eb59-4c3b-98c0-fa3cedc58f18))" width="500" height="300">
+<img src="https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/81adfac8-0c21-4e66-a2de-dfe27b58f965" width = "45%" height = "30%"><img src="https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/f79c4627-a50c-49b3-829d-85e4d5295297" width = "45%" height = "30%">
+
 
 # Recourses
 Here are three main resources for better understanding:
