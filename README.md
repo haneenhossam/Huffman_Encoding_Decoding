@@ -6,11 +6,12 @@ There are mainly three major parts in Huffman encoding/decoding:
 2. Encode the input data by traversing the Huffman tree and assigning codes to characters.
 3. Decode the data using the encoded data and tree as an input.
 
+# More explanation
+<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/b281aac1-3585-4579-af69-d3640f433b36)" width="500" height="300">
+<img src="[[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/b281aac1-3585-4579-af69-d3640f433b36](https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/5e069d3b-eb59-4c3b-98c0-fa3cedc58f18))" width="500" height="300">
+
 # Recourses
 Here are three main resources for better understanding:
 - Visualization of building Huffman tree: https://people.ok.ubc.ca/ylucet/DS/Huffman.html
 - https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/?ref=lbp
 - https://www.geeksforgeeks.org/huffman-decoding/?ref=lbp
-
-![1](https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/c3936a69-d505-4d1a-b917-28aca2f52a72)
-![2](https://github.com/haneenhossam/Huffman_Encoding_Decoding/assets/67436191/d3e50b5d-d190-4816-a5e8-6115269c5a2d)
